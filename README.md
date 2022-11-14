@@ -6,7 +6,7 @@ This repo followed instructions from https://github.com/mjhea0/flaskr-tdd.
 I successfully completed the exercise and deployed my Heroku app: https://sleepy-caverns-94384.herokuapp.com/.
 
 ## Activity 2: Adding Test Cases to Project 1 - Education Pathways
-I added 3 unit tests to my team's project: https://github.com/ECE444-2022Fall/project-1-web-application-design-education-pathways-group-1-agility/blob/main/Education_Pathways/backend/tests/course.test.js#L290-L309.<br/><br/>
+I added 3 unit tests to my team's project: https://github.com/ECE444-2022Fall/project-1-web-application-design-education-pathways-group-1-agility/blob/main/Education_Pathways/backend/tests/course.test.js#L308-L327.<br/><br/>
 In case my teammates make edits causing the line numbers to change after I have written this, my tests are tagged with "NISSAR ISHTIAK LAB 6 TDD" in their comments.<br/><br/>
 My tests are:<br/>
 1) Test that the backend provides a list of all unique course departments in the database when requested.<br/>
